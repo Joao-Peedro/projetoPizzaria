@@ -1,0 +1,100 @@
+.contato{
+    color: #fff;
+   width: 100%;
+    height: 700px;
+    background: linear-gradient(rgba(0, 0, 0, 0.308),rgba(0, 0, 1, 0.726)100%), url(./img/contato.jpg) no-repeat center;
+    margin-top: 92px;
+    padding-top: 80px;
+}
+
+.form-cont{
+    padding-right: 60px;
+    margin-top: 60px;
+    margin-left: 190px;
+}
+
+.form-cont label{
+    display: block;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    line-height: 25px;
+    margin-bottom: 4px;
+}
+
+.form-cont input{
+    display: block;
+    width: 100%;
+    border: 4px solid #fff;
+    color: #fff;
+    background: none;
+    padding: 7px 10px;
+    margin-bottom: 10px;
+    outline: none;
+    font-size: 14px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.form-cont textarea{
+    display: block;
+    width: 100%;
+    height: 120px;
+    border: 4px solid #fff;
+    color: #fff;
+    background: none;
+    padding: 7px 10px;
+    margin-bottom: 20px;
+    outline: none;
+    font-size: 14px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.form-cont button{
+    padding: 7px 40px;
+    background: none;
+}
+
+/*Contato*/
+.contato-form{
+    margin-top: 75px;
+}
+
+.contato-form h3{
+    font-size: 20px;
+    line-height: 25px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.contato-form span{
+    display: block;
+    font-size: 18px;
+    line-height: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.contato-form span:nth-of-type(even){
+    margin-bottom: 30px;
+}
+
+.contato-form ul{
+    margin-top: 10px;
+}
+
+.contato-form ul li{
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.contato-form ul li img{
+    width: 32px;
+}
+
+.contato-form ul li a{
+    border: 3px solid #fff;
+    display: block;
+    padding: 10px;
+}
+
+.contato-form ul li a:hover{
+    border-color:  rgb(128, 69, 69);
+}
