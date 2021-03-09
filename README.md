@@ -1,2 +1,2 @@
 # projeto-pizzaria
-Neste projeto foi criado um site de uma pizzaria, no intuito de praticar desenvolvimento web.
+Neste projeto foi criado o site de uma pizzaria, no intuito de praticar/estudar HTML/CSS.
